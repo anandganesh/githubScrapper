@@ -1,0 +1,11 @@
+{
+  "name": "githubScrapper",
+  "description": "herokuAppjson",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
