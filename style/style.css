@@ -1,0 +1,40 @@
+.header{
+	background:blue;
+	width:100%;
+	height:50px;
+	color:white;
+	padding-left: 40%;
+}
+.body
+{
+	margin-top:10px;
+}
+.lbl_cls{
+	margin-left:20%;
+	font-size: larger;
+}
+input{
+	width:500px;
+	border-radius: 10px;
+	padding:10px;
+	border-color: blue;
+}
+button{
+	border-radius: 10px;
+	color:white;
+	padding:10px;
+	background-color:blue;
+}
+table {
+	margin-top:10px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-color:blue;
+    border: 1px solid #ddd;
+}
